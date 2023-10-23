@@ -18,17 +18,13 @@
         android:theme="@style/Theme.Mapp"
         tools:targetApi="31">
 
-
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA4ig1pTITYlp-Wk2I-gxUwzf22EhSGeI4" />
+            android:value="AIzaSyC7Pwz5-sqW0mmmQVI9mOq1AX085U9TWLs" />
 
         <activity
             android:name=".Mapa"
-            android:exported="false">
-
-
-        </activity>
+            android:exported="false"/>
         <activity
             android:name=".IngresoDeDatos"
             android:exported="false" />
